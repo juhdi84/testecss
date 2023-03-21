@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.aulaDez{
+    background-color: brown;
+}
+
+.aulaDez .aulaDez__title {
+    color:white
+}
+
+.aulaDez .aulaDez__paragrafo {
+    background-color:antiquewhite;
+    margin: 10px;
+}
+
+
+.aulaDez .aulaDez__paragrafo.aulaDez__paragrafo--verde {
+    color:green;
+}
